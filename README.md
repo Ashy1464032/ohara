@@ -21,5 +21,5 @@ pnpm dev
 yarn dev
 # or
 bun dev
-
-
+```
+then in your browser go to the url [http://localhost:3000] and the website will load
